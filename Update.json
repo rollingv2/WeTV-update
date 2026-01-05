@@ -1,9 +1,9 @@
 {
   "latest_version": "v1.0.0",
-  "version_code": 16810,
+  "version_code": 16860,
   "title": "WeTV 1",
-  "changelog": "- WeTV Version 5.30.7.16810\n- Bug fixes\n- Layout Spacing Empty Space Fix\n- Improved video playback stability by fixing freezing issues\n- Performance improvements\n- Updated to the latest version",
+  "changelog": "- WeTV Version 5.30.7.16860\n- Bug fixes\n- Layout Spacing Empty Space Fix\n- Improved video playback stability by fixing freezing issues\n- Performance improvements\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
-  "size": "91.40 MB",
+  "size": "91.47 MB",
   "mandatory": false
 }
