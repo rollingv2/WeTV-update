@@ -2,7 +2,7 @@
   "latest_version": "v1.0.0",
   "version_code": 17410,
   "title": "WeTV 1",
-  "changelog": "- WeTV Version 5.34.0.17410\n- Bug fixes\n- New 4K Unlocked\n- Improved video playback stability by fixing freezing issues\n- Fixed the issue of missing Swipe Toast, for example when changing Hd Resolution, Now it appears\n- Performance improvements\n- size 92.59 MB\n- Updated to the latest version",
+  "changelog": "- WeTV Version 5.34.0.17410\n- Bug fixes\n- New 4K Unlocked\n- Improved video playback stability by fixing freezing issues\n- Fixed the issue of missing Swipe Toast for example when changing Hd Resolution Now it appears\n- Performance improvements\n- size 92.59 MB\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
   "size": "91.47 MB",
   "mandatory": false
